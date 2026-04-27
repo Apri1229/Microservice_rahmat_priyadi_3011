@@ -1,0 +1,2 @@
+com\apri\order\OrderApplication.class
+com\apri\order\RabbitMqConfig.class
